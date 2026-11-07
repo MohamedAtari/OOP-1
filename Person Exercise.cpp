@@ -85,13 +85,13 @@ public:
 	_declspec(property(get = GetPhoneNumber, put = SetPhoneNumber))string Phone;
 
 	void SendEmail(const string& Subject, const string& Message) {
-		cout << "\n\nThe following message set successfully to email : " << _Email;
+		cout << "\n\nThe following message sent successfully to email : " << _Email;
 		cout << "\nSubject : " << Subject;
 		cout << "\nBody : " << Message;
 	}
 
 	void SendSMS(const string &Message) {
-		cout << "\n\nThe following message set successfully to phone : " << _Phone;
+		cout << "\n\nThe following message sent successfully to phone : " << _Phone;
 		cout << "\nBody : " << Message;
 	}
 
