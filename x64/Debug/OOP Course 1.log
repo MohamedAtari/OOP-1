@@ -1,5 +1,2 @@
-﻿  SimpleCalculatorProject.cpp
-C:\Users\daynabook\source\repos\OOP Course 1\OOP Course 1\SimpleCalculatorProject.cpp(28,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\daynabook\source\repos\OOP Course 1\OOP Course 1\SimpleCalculatorProject.cpp(39,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\daynabook\source\repos\OOP Course 1\OOP Course 1\SimpleCalculatorProject.cpp(47,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  Person Exercise.cpp
   OOP Course 1.vcxproj -> C:\Users\daynabook\source\repos\OOP Course 1\x64\Debug\OOP Course 1.exe

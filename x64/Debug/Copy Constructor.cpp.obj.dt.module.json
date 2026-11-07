@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Copy Constructor.obj",
+            "outputs": [
+                "x64\\Debug\\Copy Constructor.cpp.obj.dt.module.json",
+                "x64\\Debug\\Copy Constructor.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
